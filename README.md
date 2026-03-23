@@ -1,10 +1,8 @@
-# MyCloud
+<img width="824" height="524" alt="MyCloud_Logo" src="https://github.com/user-attachments/assets/33188f7c-a26b-4bec-972e-849bed633d80" />
 
 **The private cloud for people who mean it.**
 
 MyCloud is the shared infrastructure behind the MyPhone product family — identity, communication, storage, and software distribution for every device in the ecosystem. It is built on a single architectural principle: the server cannot read what it stores.
-
-<img width="824" height="524" alt="MyCloud_Logo" src="https://github.com/user-attachments/assets/33188f7c-a26b-4bec-972e-849bed633d80" />
 
 ## What MyCloud Is
 
