@@ -4,7 +4,7 @@
 
 MyCloud is the shared infrastructure behind the MyPhone product family — identity, communication, storage, and software distribution for every device in the ecosystem. It is built on a single architectural principle: the server cannot read what it stores.
 
----
+<img width="1024" height="1024" alt="MyCloud_Logo" src="https://github.com/user-attachments/assets/33188f7c-a26b-4bec-972e-849bed633d80" />
 
 ## What MyCloud Is
 
@@ -127,5 +127,3 @@ These are constraints, not guidelines. Any proposed change that violates one req
 | **Signing key isolation**         | OTA signing keys never leave the Thales Luna HSM. No single person can produce a valid firmware signature. Quorum policy is enforced in hardware.                                   |
 | **OTA cross-signing prohibition** | Each device family's OTA key signs only that family's firmware. The key hierarchy makes cross-signing structurally impossible, not just policy-prohibited.                          |
 | **Device class scope**            | Device certificate namespace (MP- vs MTV-) determines authorization at all MyCloud service endpoints. This is enforced server-side — a device cannot self-promote its access level. |
-
----
